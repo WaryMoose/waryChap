@@ -163,7 +163,7 @@ nav ul li a {
 }
 .about {
     display: block;
-    background: url(../img/image.jpg) /*url(../img/header.jpg)*/ no-repeat center center scroll;
+    background: url(../img/header.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
