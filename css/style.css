@@ -214,10 +214,10 @@ nav ul li a {
 }
 .team {
     background: transparent;
-    background: linear-gradient(lightgrey, rgba(255, 182, 193, 0.75));
-    background: -webkit-linear-gradient(lightgrey, rgba(255, 182, 193, 0.75));
-    background: -moz-linear-gradient(lightgrey, rgba(255, 182, 193, 0.75));
-    background: -o-linear-gradient(lightgrey, rgba(255, 182, 193, 0.75));
+    background: -webkit-linear-gradient(rgba(0,0,0,0.0), rgba(255, 182, 193, 0.75));
+    background: -moz-linear-gradient(rgba(0,0,0,0.0), rgba(255, 182, 193, 0.75));
+    background: -o-linear-gradient(rgba(0,0,0,0.0), rgba(255, 182, 193, 0.75));
+    background: linear-gradient(rgba(0,0,0,0.0), rgba(255, 182, 193, 0.75));
 /*
     background: #9ADCD9;*/
 }
